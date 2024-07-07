@@ -21,7 +21,7 @@ while True:
 
     # looping until user enter invalid input
     while choice > 3 or choice < 1:
-        choice = int(input('Enter a valid choice please ☺'))
+        choice = int(input('Enter a valid choice please'))
 
         # initialize value of choice_name variable
     # corresponding to the choice value
